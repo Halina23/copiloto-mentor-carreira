@@ -11,11 +11,15 @@ O sistema foi desenhado para assumir a persona de um recrutador/mentor sênior. 
 1. A Entrevista Estruturada
 O agente conduz uma entrevista interativa composta por 7 perguntas estratégicas, focadas em extrair o máximo de informações sobre o candidato em 5 pilares fundamentais:
 
-### 💡 Interesses e motivações: O que atrai o candidato na tecnologia?
-### 🛠️ Experiência prévia: Background técnico ou de outras áreas.
-### 📚 Disponibilidade de estudo: Tempo diário/semanal dedicado ao aprendizado.
-### 🏢 Preferências de trabalho: Trabalho em equipe, foco em lógica, design, etc.
-### 🎯 Objetivos profissionais: Onde o candidato deseja chegar a médio/longo prazo.
+- Interesses e motivações: O que atrai o candidato na tecnologia?
+  
+- Experiência prévia: Background técnico ou de outras áreas.
+  
+- Disponibilidade de estudo: Tempo diário/semanal dedicado ao aprendizado.
+  
+- Preferências de trabalho: Trabalho em equipe, foco em lógica, design, etc.
+  
+- Objetivos profissionais: Onde o candidato deseja chegar a médio/longo prazo.
 
 2. Análise e Sugestão de Carreira
 Após coletar e processar as informações da entrevista, o agente cruza os dados com as demandas do mercado de tecnologia e gera como saída (Output):
