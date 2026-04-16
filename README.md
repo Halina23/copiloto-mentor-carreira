@@ -22,12 +22,11 @@ Após coletar e processar as informações da entrevista, o agente cruza os dado
 Uma lista ranqueada com as 3 carreiras mais adequadas ao perfil do usuário, com uma breve justificativa para cada escolha.
 3. Transferência de Contexto (Handoff)
 Finalizada a recomendação, o agente encerra o seu escopo e realiza o roteamento, transferindo o contexto do candidato de forma estruturada para o Agent 2 (que pode assumir a função de traçar o plano de estudos ou buscar vagas, por exemplo).
-### 🛠️ Tecnologias e Conceitos Aplicados
-Prompt Engineering (Engenharia de Prompts): Construção de instruções claras, definição de persona, restrições e formatação de saída.
 
+
+### 🛠️ Tecnologias e Conceitos Aplicados
+
+Prompt Engineering (Engenharia de Prompts): Construção de instruções claras, definição de persona, restrições e formatação de saída.
 
 Inteligência Artificial Generativa (LLMs): Uso do Copilot para simular raciocínio e conversação natural.
 
-
-Arquitetura de Múltiplos Agentes: Divisão de tarefas complexas entre agentes especialistas
-(Agente 1: Entrevistador -> Agente 2: Próxima etapa).
